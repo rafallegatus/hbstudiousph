@@ -95,6 +95,7 @@ p {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  margin-top: 20px;
 }
 
 .hb_emailbtn:hover, .hb_emailbtn:active {

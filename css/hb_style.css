@@ -1,0 +1,116 @@
+
+
+
+
+
+
+
+
+
+
+body {
+
+ background: #c6aa9d;
+
+}
+
+
+h1 {
+	color: #fff;
+    font-family: 'PanameraRegular';
+    font-weight: normal;
+    font-style:  normal;
+	font-size: 50px;
+	line-height: 40px;
+	 text-shadow: 1px 1px #c6aa9d;
+}
+
+
+p {
+	color: #fff;
+    font-family: 'Panameralight';
+    font-weight: light;
+    font-style: light;
+	letter-spacing: 2px;
+}
+
+
+
+.hb_circle_img {
+	
+	color: #fff;
+    font-family: 'PanameraRegular';
+    font-weight: normal;
+    font-style: normal;
+	background: #8e8681;
+
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	display: inline-block;
+	background-image: url("../imgs/interior_design_sample.jpg");
+	background-repeat: no-repeat;
+	background-size: 300px 300px;
+}
+	
+	
+	
+
+
+
+.hb_title {
+	
+	
+	padding-top: 100px;
+	text-align: center;
+	
+	
+	
+}
+
+
+.hb_logo {
+	
+	padding-top: 40px;
+	width: 150px;
+	
+	
+}
+
+
+
+.hb_email_btn {
+	
+	background: #8c9086;
+	line-height: 40px;
+	padding: 5px 5px 5px 5px;
+	
+}
+
+
+.hb_emailbtn:link, .hb_emailbtn:visited {
+  background-color: #8c9086;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.hb_emailbtn:hover, .hb_emailbtn:active {
+  background-color: #8e8681;
+}
+
+
+
+
+.hb_social {
+	
+	
+	width: 50px;
+	margin: 10px 10px 10px 10px;
+	
+}
+
+
+
